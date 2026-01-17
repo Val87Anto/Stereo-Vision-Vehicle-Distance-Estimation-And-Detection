@@ -6,7 +6,7 @@ Computer Vision Final Project
 
 1. Valerie Liang Alianto (Leader)
 
-2. Jonathan Matthew Halim
+2. Jonathan Matthew Halim.
 
 3. Sachika Valenlie
 
